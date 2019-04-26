@@ -41,7 +41,7 @@ It must **NOT** use:
 + Bets and hands are totalled.
 + Buttons disabled until the appropriate point.
 ```
-## Next Steps - what the group would liked to have achieved given more time
+## Next Steps - what we would do with more time
 ```diff
 - Remember a player and recall their purse.
 - Allow for multiple players.
