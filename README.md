@@ -93,7 +93,7 @@ The application is running on port 3000 so visit http://localhost:3000/.
 ![image](https://user-images.githubusercontent.com/30385421/56810675-c9817680-682e-11e9-84da-5b28c8994c0a.png)
 
 ### Player Turn
-![image](https://user-images.githubusercontent.com/30385421/56810601-90e19d00-682e-11e9-93be-7ef9c72a6748.png)
+![image](https://user-images.githubusercontent.com/30385421/56812251-68f43880-6832-11e9-8286-41f7666aa7d4.png)
 
 
 ### Player Wins
