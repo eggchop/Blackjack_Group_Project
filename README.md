@@ -46,6 +46,7 @@ It must **NOT** use:
 - Remember a player and recall their purse.
 - Allow for multiple players.
 - Allow players to split their hand.
+- Allow player to 'cash-out'.
 ```
 
 ## Getting Started
