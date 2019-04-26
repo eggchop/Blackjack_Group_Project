@@ -4,7 +4,7 @@ Blackjack is a full stack JavaScript application with an Express server and Mong
 
 ## Getting Started
 
-These instructions will get the project up and running on your local machine for development purposes.
+These instructions will get the project up and running on your local machine.
 
 ### Installing
 
