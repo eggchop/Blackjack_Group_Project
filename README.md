@@ -24,7 +24,8 @@ It must **NOT** use:
 ## MVP
 ```diff
 + Two cards can be dealt to both the dealer and the player
-+ Hands can be totalled to decide which has the highest value
++ Hands can be totalled
++ The highest hand wins and a winner is declared 
 + Game displays in browser
 ```
 
