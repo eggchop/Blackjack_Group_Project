@@ -1,6 +1,51 @@
 # Blackjack
 
-Blackjack is a full stack JavaScript application with an Express server and MongoDB database.
+For our first group project at CodeClan, we decided to build the clasic casino game Blackjack. Our version is a full stack JavaScript application with an Express server and MongoDB database.
+
+## Brief
+Create a browser game based on an existing card or dice game. Model and test the game logic and then display it in the browser for a user to interact with.
+
+## Rules
+
+The project must be built using **only**:
+
+* HTML / CSS
+* Javascript
+* Express
+* MongoDB
+
+It must **NOT** use:
+
+* Any Object Relational Mapper (e.g. ActiveRecord)
+* Jquery
+* Any pre-built CSS libraries, such as Bootstrap.
+* Authentication. Assume that the user already has secure access to the app.
+
+## MVP
+```diff
++ Two cards can be dealt to both the dealer and the player
++ Hands can be totalled to decide which has the highest value
++ Game displays in browser
+```
+
+## Extensions
+```diff
++ A player can draw cards.
++ The model declares “Bust” if the hand is over 21.
++ A player draws multiple cards until bust or “Hit” is clicked.
++ Dealer takes a turn. Will draw until at least 17 or is bust.
++ Have a purse available to the player.
++ Allow the player to place bets.
++ Have the rules listed.
++ Bets and hands are totalled.
++ Buttons disabled until the appropriate point.
+```
+## Next Steps - what the group would liked to have achieved given more time
+```diff
+- Remember a player and recall their purse.
+- Allow for multiple players.
+- Allow players to split their hand.
+```
 
 ## Getting Started
 
