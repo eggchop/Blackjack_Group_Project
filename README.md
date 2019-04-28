@@ -1,5 +1,7 @@
 # Blackjack (1-week group project)
 
+Becky Nielsen, Jen Archibald, Jon Zarecki and Charlie Walker
+
 For our first group project at CodeClan, we decided to build the clasic casino game Blackjack. Our version is a full stack JavaScript application with an Express server and MongoDB database.
 
 ## Brief
