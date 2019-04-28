@@ -91,7 +91,7 @@ npm run server:dev
 
 The application is running on port 3000 so visit http://localhost:3000/.
 
-### Screenshot Examples
+## Screenshot Examples
 
 ### Player Decides Bet Amount
 ![image](https://user-images.githubusercontent.com/30385421/56810675-c9817680-682e-11e9-84da-5b28c8994c0a.png)
